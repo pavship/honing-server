@@ -1,0 +1,9 @@
+{
+  "name": "honing-server",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/pavship/honing-server.git",
+  "author": "ps",
+  "license": "MIT",
+  "private": false
+}
