@@ -5,5 +5,8 @@
   "repository": "https://github.com/pavship/honing-server.git",
   "author": "ps",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
